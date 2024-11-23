@@ -43,7 +43,7 @@ you get this type of error
 
 # Get List of Schools API
 
-### End point = https://school-backend-3z9i.onrender.com/api/get-shools?latitude=<value>&longitude=<value>
+### End point = https://school-backend-3z9i.onrender.com/api/get-schools?latitude=<value>&longitude=<value>
 
 In these api user and can retrieve a list of schools sorted by proximity to a user-specified location.
 
